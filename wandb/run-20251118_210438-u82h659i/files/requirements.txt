@@ -458,7 +458,7 @@ python-bidi==0.6.7
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.2
 python-frontmatter==1.1.0
-python-multipart==0.0.31
+python-multipart==0.0.32
 python-pptx==1.0.2
 python-slugify==8.0.4
 pytorch-lightning==2.6.1
