@@ -359,7 +359,7 @@ optax==0.1.7
 optree==0.13.1
 opt_einsum==3.4.0
 orbax-checkpoint==0.1.6
-orjson==3.10.16
+orjson==3.11.6
 ormsgpack==1.9.1
 outcome==1.3.0.post0
 packageurl-python==0.17.5
@@ -420,7 +420,7 @@ psutil==7.0.0
 psycopg2-binary==2.9.10
 puremagic==1.28
 pure_eval==0.2.3
-pyarrow==23.0.1
+pyarrow==24.0.0
 pyasn1==0.6.3
 pyasn1_modules==0.4.1
 pyautogen==0.3.1
@@ -461,7 +461,7 @@ pysnmp==7.1.15
 PySocks==1.7.1
 pyspnego==0.11.2
 pytesseract==0.3.10
-pytest==8.4.2
+pytest==9.0.3
 pytest-asyncio==1.0.0
 pytest-mock==3.14.0
 python-bidi==0.6.7
@@ -484,7 +484,7 @@ realtime==2.4.3
 referencing==0.35.1
 regex==2024.11.6
 replicate==1.0.4
-requests==2.33.0
+requests==2.34.2
 requests-oauthlib==2.0.0
 requests-toolbelt==1.0.0
 retrying==1.4.2
@@ -599,7 +599,7 @@ tyro==0.9.19
 tzdata==2025.2
 tzlocal==5.3.1
 uc-micro-py==1.0.3
-ujson==5.12.1
+ujson==5.13.0
 umap-learn==0.5.9.post2
 universal_pathlib==0.3.6
 uritemplate==4.1.1
