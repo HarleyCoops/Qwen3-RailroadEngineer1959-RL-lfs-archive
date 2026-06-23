@@ -377,7 +377,7 @@ psutil==7.0.0
 psycopg2-binary==2.9.10
 puremagic==1.28
 pure_eval==0.2.3
-pyarrow==23.0.1
+pyarrow==24.0.0
 pyasn1==0.6.3
 pyasn1_modules==0.4.1
 pyautogen==0.3.1
@@ -415,7 +415,7 @@ pysnmp==7.1.15
 PySocks==1.7.1
 pyspnego==0.11.2
 pytesseract==0.3.10
-pytest==9.0.3
+pytest==9.1.1
 pytest-asyncio==1.0.0
 pytest-mock==3.14.0
 python-bidi==0.6.7
@@ -439,7 +439,7 @@ realtime==2.4.3
 referencing==0.35.1
 regex==2024.11.6
 replicate==1.0.4
-requests==2.33.0
+requests==2.34.2
 requests-oauthlib==2.0.0
 requests-toolbelt==1.0.0
 retrying==1.4.2
@@ -546,7 +546,7 @@ tyro==0.9.19
 tzdata==2025.2
 tzlocal==5.3.1
 uc-micro-py==1.0.3
-ujson==5.12.1
+ujson==5.13.0
 umap-learn==0.5.9.post2
 uritemplate==4.1.1
 urllib3==2.7.0
