@@ -14,7 +14,7 @@ requests>=2.34.2
 Pillow>=12.3.0
 
 # Dataset publishing and model hub integration
-huggingface-hub>=1.22.0
+huggingface-hub>=1.23.0
 
 # Environment variable management
 python-dotenv>=1.2.2
