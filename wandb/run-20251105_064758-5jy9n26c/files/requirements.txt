@@ -132,7 +132,7 @@ future==1.0.0
 gast==0.6.0
 gcloud==0.18.3
 geomet==1.1.0
-geopandas==1.1.2
+geopandas==1.1.4
 gitdb==4.0.11
 GitPython==3.1.43
 git-filter-repo==2.47.0
@@ -146,7 +146,7 @@ google-api-python-client==2.166.0
 google-auth==2.37.0
 google-auth-httplib2==0.2.0
 google-auth-oauthlib==1.2.2
-google-cloud-aiplatform==1.133.0
+google-cloud-aiplatform==1.161.0
 google-cloud-bigquery==3.27.0
 google-cloud-core==2.4.1
 google-cloud-resource-manager==1.14.0
@@ -267,7 +267,7 @@ matplotlib==3.10.0
 matplotlib-inline==0.1.7
 mauve-text==0.4.0
 mccabe==0.7.0
-mcp==1.23.0
+mcp==1.27.2
 mcp-server-sentry==2025.1.14
 mdit-py-plugins==0.5.0
 mdurl==0.1.2
@@ -371,7 +371,7 @@ prometheus_client==0.22.0
 promise==2.3
 prompt_toolkit==3.0.50
 propcache==0.2.1
-protobuf==5.29.6
+protobuf==7.35.1
 proto-plus==1.25.0
 psutil==7.0.0
 psycopg2-binary==2.9.10
@@ -562,7 +562,7 @@ webdriver-manager==4.0.2
 webencodings==0.5.1
 websockets==14.1
 websocket-client==1.8.0
-Werkzeug==3.1.6
+Werkzeug==3.1.8
 wheel==0.46.2
 widgetsnbextension==4.0.15
 win32_setctime==1.2.0
