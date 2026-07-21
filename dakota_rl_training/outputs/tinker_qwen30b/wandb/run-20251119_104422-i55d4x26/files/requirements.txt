@@ -383,7 +383,7 @@ pdfplumber==0.11.7
 peewee==3.18.2
 peft==0.10.0
 pfzy==0.3.4
-pillow==12.2.0
+pillow==12.3.0
 pinecone==7.3.0
 pinecone-client==6.0.0
 pinecone-plugin-assistant==1.8.0
