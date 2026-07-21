@@ -43,7 +43,7 @@ boolean.py==5.0
 boto3==1.40.61
 botocore==1.40.61
 branca==0.8.1
-browser-use==0.1.45
+browser-use==0.13.4
 build==1.2.2.post1
 CacheControl==0.14.3
 cached-property==2.0.1
@@ -130,7 +130,7 @@ ffmpeg-python==0.2.0
 ffmpy==0.5.0
 fhaviary==0.28.0
 fhlmi==0.41.0
-filelock==3.29.1
+filelock==3.30.2
 filetype==1.2.0
 findpython==0.6.3
 firecrawl-py==1.9.0
@@ -150,7 +150,7 @@ future==1.0.0
 gast==0.6.0
 gcloud==0.18.3
 geomet==1.1.0
-geopandas==1.1.3
+geopandas==1.1.4
 gitdb==4.0.11
 GitPython==3.1.43
 git-filter-repo==2.47.0
@@ -164,7 +164,7 @@ google-api-python-client==2.166.0
 google-auth==2.37.0
 google-auth-httplib2==0.2.0
 google-auth-oauthlib==1.2.2
-google-cloud-aiplatform==1.155.0
+google-cloud-aiplatform==1.161.0
 google-cloud-bigquery==3.27.0
 google-cloud-core==2.4.1
 google-cloud-resource-manager==1.14.0
@@ -278,12 +278,12 @@ license-expression==30.4.4
 lightning-utilities==0.14.3
 limits==5.6.0
 linkify-it-py==2.0.3
-litellm==1.83.7
+litellm==1.94.0.dev2
 llvmlite==0.45.1
 locket==1.0.0
 loguru==0.7.3
 lxml==6.1.1
-mammoth==1.11.0
+mammoth==1.12.0
 manim==0.19.0
 ManimPango==0.6.0
 mapbox_earcut==1.0.3
@@ -296,7 +296,7 @@ matplotlib==3.10.0
 matplotlib-inline==0.1.7
 mauve-text==0.4.0
 mccabe==0.7.0
-mcp==1.27.2
+mcp==1.28.1
 mcp-server-sentry==2025.1.14
 mdit-py-plugins==0.5.0
 mdurl==0.1.2
@@ -404,7 +404,7 @@ prometheus_client==0.22.0
 promise==2.3
 prompt_toolkit==3.0.50
 propcache==0.2.1
-protobuf==7.35.0
+protobuf==7.35.1
 proto-plus==1.25.0
 psutil==7.0.0
 psycopg2-binary==2.9.10
@@ -500,10 +500,10 @@ screeninfo==0.8.1
 selenium==4.27.1
 semantic-version==2.10.0
 semver==3.0.4
-sentencepiece==0.2.1
+sentencepiece==0.2.2
 sentry-sdk==2.25.1
 setproctitle==1.3.5
-setuptools==78.1.1
+setuptools==83.0.0
 sgmllib3k==1.0.0
 shapely==2.0.6
 shellingham==1.5.4
@@ -531,7 +531,7 @@ starlette==1.3.1
 stone==3.3.1
 stoney-nakoda-translation==0.1.0
 storage3==0.11.3
-streamlit==1.41.1
+streamlit==1.54.0
 StrEnum==0.4.15
 supabase==2.15.1
 supafunc==0.9.4
@@ -564,7 +564,7 @@ tokenizers==0.22.1
 toml==0.10.2
 tomlkit==0.13.2
 toolz==1.0.0
-torch==2.12.1
+torch==2.13.0
 torchaudio==2.5.1
 torchmetrics==0.10.3
 torchvision==0.20.1
@@ -598,7 +598,7 @@ uv==0.11.17
 uvicorn==0.34.0
 verifiers==0.1.7.post0
 vertexai==1.71.1
-virtualenv==21.4.2
+virtualenv==21.6.1
 wandb==0.23.0
 watchdog==6.0.0
 watchfiles==1.1.0
