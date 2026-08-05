@@ -14,7 +14,7 @@ requests>=2.34.2
 Pillow>=12.3.0
 
 # Dataset publishing and model hub integration
-huggingface-hub>=1.25.1
+huggingface-hub>=1.26.0
 
 # Environment variable management
 python-dotenv>=1.2.2
@@ -25,7 +25,7 @@ tqdm>=4.70.0
 # Weights & Biases for experiment tracking and logging
 # Weights & Biases for experiment tracking and logging
 wandb>=0.28.1
-weave>=0.53.3
+weave>=0.53.4
 
 # Thinking Machines / Tinker integration
 tinker>=0.24.0
