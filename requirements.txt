@@ -2,7 +2,7 @@
 # This project uses Claude Sonnet 4.5 via Anthropic API - no local model inference needed
 
 # Anthropic API for Claude Sonnet 4.5 (primary VLM)
-anthropic>=0.121.0
+anthropic>=0.122.0
 
 # Google Gemini API for Q&A generation
 google-generativeai>=0.8.6
@@ -24,8 +24,8 @@ tqdm>=4.70.0
 
 # Weights & Biases for experiment tracking and logging
 # Weights & Biases for experiment tracking and logging
-wandb>=0.28.1
-weave>=0.53.4
+wandb>=0.28.2
+weave>=0.53.6
 
 # Thinking Machines / Tinker integration
 tinker>=0.25.0
