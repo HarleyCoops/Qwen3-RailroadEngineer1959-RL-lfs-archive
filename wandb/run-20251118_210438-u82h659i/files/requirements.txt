@@ -14,7 +14,7 @@ annotated-types==0.7.0
 anthropic==0.42.0
 anthropic-cli==0.2.3
 antlr4-python3-runtime==4.13.2
-anyio==4.9.0
+anyio==4.14.2
 arcgis==2.4.1.1
 asttokens==3.0.0
 astunparse==1.6.3
