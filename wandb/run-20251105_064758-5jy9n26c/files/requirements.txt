@@ -397,7 +397,7 @@ PyGithub==2.5.0
 pyglet==2.1.0
 PyGLM==2.7.3
 Pygments==2.21.0
-PyJWT==2.13.0
+PyJWT==2.15.0
 pylerc==4.0
 PyMuPDF==1.26.0
 PyNaCl==1.6.2
