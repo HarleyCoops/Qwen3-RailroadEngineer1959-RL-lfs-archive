@@ -144,7 +144,7 @@ folium==0.19.6
 fonttools==4.63.0
 frozendict==2.4.6
 frozenlist==1.5.0
-fsspec==2026.6.0
+fsspec==2026.9.0
 funcsigs==1.0.2
 future==1.0.0
 gast==0.6.0
@@ -578,7 +578,7 @@ trio-websocket==0.11.1
 trl==0.23.1
 trove-classifiers==2025.5.9.12
 truststore==0.10.1
-Twisted==26.4.0rc2
+Twisted==26.4.0
 typeguard==4.4.2
 typer==0.15.1
 typer-slim==0.20.0
