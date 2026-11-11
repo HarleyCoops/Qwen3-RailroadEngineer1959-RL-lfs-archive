@@ -2,7 +2,7 @@
 # This project uses Claude Sonnet 4.5 via Anthropic API - no local model inference needed
 
 # Anthropic API for Claude Sonnet 4.5 (primary VLM)
-anthropic>=2.3.0
+anthropic>=2.6.0
 
 # Google Gemini API for Q&A generation
 google-generativeai>=0.8.6
@@ -25,9 +25,9 @@ tqdm>=4.70.1
 # Weights & Biases for experiment tracking and logging
 # Weights & Biases for experiment tracking and logging
 wandb>=0.31.0
-weave>=0.54.0
+weave>=0.54.1
 
 # Thinking Machines / Tinker integration
-tinker>=0.36.0
+tinker>=0.39.0
 chz>=0.4.0
 git+https://github.com/thinking-machines-lab/tinker-cookbook.git
