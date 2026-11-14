@@ -342,7 +342,7 @@ opencv-contrib-python==4.10.0.84
 opencv-python==4.11.0.86
 opencv-python-headless==4.11.0.86
 openpyxl==3.1.5
-opentelemetry-api==1.45.1
+opentelemetry-api==1.45.2
 opentelemetry-exporter-gcp-trace==1.9.0
 opentelemetry-resourcedetector-gcp==1.9.0a0
 opentelemetry-sdk==1.31.1
