@@ -2,7 +2,7 @@
 # This project uses Claude Sonnet 4.5 via Anthropic API - no local model inference needed
 
 # Anthropic API for Claude Sonnet 4.5 (primary VLM)
-anthropic>=2.6.0
+anthropic>=2.8.0
 
 # Google Gemini API for Q&A generation
 google-generativeai>=0.8.6
